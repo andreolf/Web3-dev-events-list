@@ -1,19 +1,19 @@
 # Web3-dev-events-list
 Crowdsourced list for Web3 dev focused events
+
 A list for all dev-focused events in web3 domain.
 
 |    Value          | Color                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Coming up | ![#FFFF00](https://via.placeholder.com/10/FFFF00?text=+)  |
-| Open | ![##ABEA7C](https://via.placeholder.com/10/ABEA7C?text=+)  |
-| Closed| ![#FF0000](https://via.placeholder.com/10/FF0000?text=+) |
+| Open for application | 🟢 |
+| Done| 🛑|
 
-## Web3 Grants 
+## Events name 
 
-| Event             | link                                                                |  Year       |commnent            | extra links       |
+| Event             | link                                                                |  Date       |comment            | extra links       |
 | ----------------- | ------------------------------------------------------------------ | ------------------|------------------------|------------------|
-| ETHDenver| ![#ABEA7C](https://via.placeholder.com/10/ABEA7C?text=+) https://near.org/grants/| 2023 |   |   |
-| DevConnect| ![#ABEA7C](https://via.placeholder.com/10/ABEA7C?text=+) https://grants.filecoin.io/	| 2023 |   |   |
+| ETHDenver| 🟢| 2023  |   |   |
+| DevConnect|🟢	| 2023 |   |   |
 
 ## Authors
 
@@ -22,4 +22,3 @@ A list for all dev-focused events in web3 domain.
 
 
 ## Appendix
- 
